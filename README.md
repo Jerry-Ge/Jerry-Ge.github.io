@@ -28,3 +28,5 @@ Welcome to my personal space! I'm currently working on various machine learning 
 *   [Reinforcement Learning Local](./RL.md)
 
 Copyright © 2023 Jerry Ge. All rights reserved.
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

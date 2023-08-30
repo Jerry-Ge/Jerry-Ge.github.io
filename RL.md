@@ -7,26 +7,6 @@ $$a+b+\gamma$$
 
 $$G_t = R_{t+1} + \gamma R_{t+2}$$
 
-Testing the inline math as $ a + \pi $
-
-Testing the inline math as $a + \pi$
-
-Testing the inline math as \$a + \pi$
-
-Testing the inline math as $$ 5 + 5 + \pi $$
-
-Testing the inline math as $5 + \pi$ the best latex
-
-Testing the inline math as $5 + \pi$ the best latex $`\sqrt{3x-1}+(1+x)^2`$
-
-$$\begin{aligned}
-E = mc^2
-\end{aligned}$$
-
-Inline
-\[\begin{aligned}
-E = mc^2
-\end{aligned}\]
-Inline
+Testing the inline math as $$ 5 + 5 + \pi $$, the best strategy.
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

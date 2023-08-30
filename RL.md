@@ -13,7 +13,9 @@ Testing the inline math as $a + \pi$
 
 Testing the inline math as \$a + \pi$
 
-Testing the inline math as \$$ 5 + 5 $$
+Testing the inline math as $$ 5 + 5 + \pi $$
+
+Testing the inline math as $5 + \pi$ the best latex
 
 
 $$\begin{aligned}

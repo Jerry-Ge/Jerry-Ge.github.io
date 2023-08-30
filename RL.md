@@ -13,6 +13,9 @@ Testing the inline math as $a + \pi$
 
 Testing the inline math as \$a + \pi$
 
+Testing the inline math as \$$ 5 + 5 $$
+
+
 $$\begin{aligned}
 E = mc^2
 \end{aligned}$$

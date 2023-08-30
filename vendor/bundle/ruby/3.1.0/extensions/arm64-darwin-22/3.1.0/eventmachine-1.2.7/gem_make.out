@@ -1,0 +1,20 @@
+current directory: /Users/yuzhouge/Desktop/demo/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yuzhouge/Desktop/demo/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230829-89131-360hyw sitelibdir\=./.gem.20230829-89131-360hyw clean
+
+current directory: /Users/yuzhouge/Desktop/demo/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230829-89131-360hyw sitelibdir\=./.gem.20230829-89131-360hyw
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/yuzhouge/Desktop/demo/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230829-89131-360hyw sitelibdir\=./.gem.20230829-89131-360hyw install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230829-89131-360hyw
+
+current directory: /Users/yuzhouge/Desktop/demo/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230829-89131-360hyw sitelibdir\=./.gem.20230829-89131-360hyw clean

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-29T21:27:21-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jerry Ge</title><subtitle>Welcome to Jerry&apos;s Home</subtitle><entry><title type="html">Markdown Snippets</title><link href="http://localhost:4000/jekyll/update/2023/08/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Markdown Snippets" /><published>2023-08-29T20:36:45-07:00</published><updated>2023-08-29T20:36:45-07:00</updated><id>http://localhost:4000/jekyll/update/2023/08/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/08/29/welcome-to-jekyll.html"><![CDATA[<h2 id="how-to-name-a-file">How to name a file?</h2>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<h2 id="how-to-write-code">How to write code?</h2>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="n">std</span><span class="o">::</span><span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Hello World"</span> <span class="o">&lt;&lt;</span> <span class="n">std</span><span class="o">::</span><span class="n">endl</span><span class="p">;</span></code></pre></figure>
+
+<h2 id="how-to-link-stuff">How to link stuff?</h2>
+<p><code class="language-plaintext highlighter-rouge">[jekyll</code>]<code class="language-plaintext highlighter-rouge">[jekyll-organization</code>] <br />
+<code class="language-plaintext highlighter-rouge">[jekyll</code>]<code class="language-plaintext highlighter-rouge">(https://github.com/jekyll/jekyll</code>)</p>
+
+<h2 id="how-to-write-latex-equations">How to write LaTex equations?</h2>
+<p>Inline \(\pi\) this is the best.</p>
+
+<p>Block Math Equations:
+\(a + b + c\)</p>
+
+\[\begin{gather}
+ \begin{bmatrix} \Phi_{11} &amp; \Phi_{12} \\ \Phi_{21} &amp; \Phi_{22} \end{bmatrix}
+ =
+ \frac{1}{\det(X)}
+  \begin{bmatrix}
+   X_{22} Y_{11} - X_{12} Y_{21} &amp;
+   X_{22} Y_{12} - X_{12} Y_{22} \\
+   X_{11} Y_{21} - X_{21} Y_{11} &amp;
+   X_{11} Y_{22} - X_{21} Y_{12}
+   \end{bmatrix}
+\end{gather}\]]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[How to name a file?]]></summary></entry></feed>

@@ -1,10 +1,10 @@
 # Jerry Ge
 
-![](./Jerry_Ge.JPG)
+<td><img src="./Jerry_Ge.JPG" width="200" class="padding"></td>
 
 Machine Learning Group @ [Arm](https://www.arm.com)  
 
-**Email:** [jerry.ge@arm.com](mailto: yuzhouge1996@gmail.com)  
+**Email:** [jerry.ge@arm.com] \
 **Office:** 120 Rose Orchard Way, San Jose, CA 95134  
 
   
@@ -28,6 +28,6 @@ Besides my daily work, I enjoy filmmaking and learning all kinds of sciences and
 ### Personal Notes:
 
 *   [Reinforcement Learning](https://learnings-1.gitbook.io/reinforcement-learning/)
-*   [Testing MD](./test.md)
+*   [Testing MD](./TEST.md)
 
 Copyright © 2023 Jerry Ge. All rights reserved.

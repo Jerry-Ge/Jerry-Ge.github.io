@@ -17,6 +17,7 @@ Testing the inline math as $$ 5 + 5 + \pi $$
 
 Testing the inline math as $5 + \pi$ the best latex
 
+Testing the inline math as $5 + \pi$ the best latex $`\sqrt{3x-1}+(1+x)^2`$
 
 $$\begin{aligned}
 E = mc^2

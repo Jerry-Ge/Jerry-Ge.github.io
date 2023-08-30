@@ -13,4 +13,14 @@ Testing the inline math as $a + \pi$
 
 Testing the inline math as \$a + \pi$
 
+$$\begin{aligned}
+E = mc^2
+\end{aligned}$$
+
+Inline
+\[\begin{aligned}
+E = mc^2
+\end{aligned}\]
+Inline
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
